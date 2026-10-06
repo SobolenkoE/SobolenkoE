@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @SobolenkoE
-- 👀 I’m interested in FrontEnd dev, Python dev
-- 🌱 I’m currently learning JS.
-- 💞️ I’m looking to collaborate on any project for free.
 - 📫 How to reach me sob.evg@yandex.ru.
 
 <!---
